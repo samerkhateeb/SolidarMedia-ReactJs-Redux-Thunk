@@ -1,5 +1,5 @@
 
-# Solidar Website
+# Solidar Media
 
 this website showing media for different movies for  a company i created which called Solidar, you can download the code library,
 
